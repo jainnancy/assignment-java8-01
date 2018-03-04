@@ -12,7 +12,7 @@ public class MovieOperations {
     Movie movie5 = new Movie("Avatar", 2009, 8, "Sci-Fi");
     Movie movie6 = new Movie("Black Panther", 20018, 8, "Sci-Fi");
     Movie movie7 = new Movie(" Avengers: Age of Ultron", 20015, 7, "Sci-Fi");
-    List<Movie> movieList = Arrays.asList(movie1, movie2, movie3, movie4, movie5, movie6);
+    List<Movie> movieList = Arrays.asList(movie1, movie2, movie3, movie4, movie5, movie6,movie7);
 
     public void displayFilteredList() {
 
